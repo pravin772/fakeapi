@@ -1,0 +1,59 @@
+{
+  "bookings": [{
+    "start": {
+      "dateTime": "2017-10-31T09:00:00.000Z"
+    },
+    "end": {
+      "dateTime": "2017-10-31T11:00:00.000Z"
+    },
+    "resourceId": "5943b5ebb4bd93ca5f1906fc",
+    "extras": {},
+    "recurrence": {
+      "rrule": null
+    },
+    "member": null,
+    "visitors": [],
+    "members": [],
+    "team": "59493231518f3f150d306c62",
+    "timezone": "Europe/London",
+    "source": "admin",
+    "plan": "5943b59eb4bd93ca5f1906f7",
+    "fees": [{
+      "date": "2017-10-31T00:00:00.000Z",
+      "extraFees": [],
+      "credits": [{
+        "count": 2,
+        "credit": "594932ea518f3f150d306c89"
+      }]
+    }],
+    "accountedUntil": null
+  }, {
+    "start": {
+      "dateTime": "2017-10-31T13:00:00.000Z"
+    },
+    "end": {
+      "dateTime": "2017-10-31T14:00:00.000Z"
+    },
+    "resourceId": "5943b5ebb4bd93ca5f1906fc",
+    "extras": {},
+    "recurrence": {
+      "rrule": null
+    },
+    "member": null,
+    "visitors": [],
+    "members": [],
+    "team": "59493231518f3f150d306c62",
+    "timezone": "Europe/London",
+    "source": "admin",
+    "plan": "5943b59eb4bd93ca5f1906f7",
+    "fees": [{
+      "date": "2017-10-31T00:00:00.000Z",
+      "extraFees": [],
+      "credits": [{
+        "count": 1,
+        "credit": "594932ea518f3f150d306c89"
+      }]
+    }],
+    "accountedUntil": null
+  }]
+}
